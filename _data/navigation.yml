@@ -3,7 +3,7 @@ main:
   - title: "Course Introduction"
     url: "/"
   - title: "Tips for the Class"
-    url: "/"
+    url: "/introduction/tips-for-class"
   - title: "Add a Resource"
     url: "/contribute"
     
